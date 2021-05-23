@@ -20,6 +20,15 @@ The report has five sections that you will need to complete:
     - Recommendations
     - Appendix: SQL queries used
 
+## What do you need to run the SQL code:
+The relational database we were using for this project was version 9.6 of PostgreSQL. 
+There are many ways to install Postgres on your computer, and the easiest one is going through Docker:
+https://docs.docker.com/samples/postgresql_service/
+
+All the exercises for this project were done using a Udacity Postgres workspace. 
+The Udacity Postgres workspace is a real instance of Postgres that behaves exactly like those outside the workspace.
+
+
 ## Files:
 
 (1) Report for the executive team
