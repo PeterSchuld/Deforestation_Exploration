@@ -1,5 +1,5 @@
 # Deforestation_Exploration
-Project No.1 in the Udacity SQL Nanodegree Program. 
+Project No.1 in the Udacity Nanodegree Program. 
 
 We’re data analysts for ForestQuery, a non-profit organization. on a mission to reduce deforestation around the world and which raises awareness about this important environmental topic.
 
